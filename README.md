@@ -21,3 +21,10 @@ El dashboard de Laboratoria es una herramienta que permite a los usuarios accede
  * Promedio de notas técnicas.
 
 Adicionalmente, permite filtrar la data por Sedes (Arequipa, Ciudad de México, Lima y Santiago de Chile).
+
+### Primera ventana
+
+ * Se validara el ingreso con un correo electronico y la clave, solo pueden ingresar profesores, training managers, directores y gerentes de Laboratoria.
+ * Las alumnas y otras personas tienen prohibido el ingreso al dashboard.
+ 
+ ![dashboard](assets/img/img1.jpg)
