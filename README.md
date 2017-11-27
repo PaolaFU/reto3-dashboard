@@ -28,3 +28,9 @@ Adicionalmente, permite filtrar la data por Sedes (Arequipa, Ciudad de México, 
  * Las alumnas y otras personas tienen prohibido el ingreso al dashboard.
  
  ![dashboard](assets/img/img1.jpg)
+ 
+ ![dashboard](assets/img/img2.jpg)
+ 
+ ![dashboard](assets/img/img3.jpg)
+ 
+ ![dashboard](assets/img/img4.jpg)
