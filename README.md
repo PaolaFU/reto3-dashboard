@@ -50,9 +50,9 @@ Adicionalmente, permite filtrar la data por Sedes (Arequipa, Ciudad de México, 
  
  ### Cuarta ventana
  
- * Se da la opción de elegir el segundo dashboard "Comparativo Notas", el cual sirve para comparar entre 2 a 4  sedes a las vez, de acuerdo a la generación que se eliga.
+ * Se da la opción de elegir el segundo dashboard "Notas comparativas", el cual sirve para comparar entre 2 a 4  sedes a las vez, de acuerdo a la generación que se eliga.
  
- * Se mostrara un cuadro  estadístico de la opción elegida. 
+ * Se  mostrará un cuadro  estadístico de la opción elegida. 
  
  
  ![dashboard](assets/img/img4.jpg)
